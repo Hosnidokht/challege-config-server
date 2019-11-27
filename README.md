@@ -1,1 +1,1 @@
-# challege-config-server
+# challenge-config-server
